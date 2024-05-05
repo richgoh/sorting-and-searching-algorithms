@@ -1,5 +1,6 @@
 # sorting-and-searching-algorithms
 
+
 Implementation of Insertion Sort using JavaScript
 function triInsertion(arr) {
     // Parcourir le tableau en commençant par le deuxième élément
